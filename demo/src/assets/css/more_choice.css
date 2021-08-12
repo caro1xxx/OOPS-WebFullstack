@@ -1,0 +1,46 @@
+/* body */
+.bodyset{
+    height:120px;
+    width:200px;
+}
+/* 里面 */
+.insideset{
+    height:35px;
+    width:170px;
+}
+/* 图片 */
+.picset{
+    height:35px;
+    width:35px;
+    float:left;
+}
+/* 标题 */
+.titleset{
+    height:35px;
+    width:135px;
+    float:right;
+}
+/* 标题里面 */
+.titleinsideset{
+    height:20px;
+    width:135px;
+}
+/* 日期 */
+.dateset{
+    height:15px;
+    width:135px;
+    font-size:5px;
+    color:#c0c0c0;
+}
+/* 内容 */
+.contentset{
+    height:50px;
+    width:170px;
+    padding:5px;
+    font-size:3px;
+}
+/* 鼠标移入移出效果 */
+.mouseset{
+    height:120px;
+    width:200px;
+}

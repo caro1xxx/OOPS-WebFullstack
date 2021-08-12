@@ -1,0 +1,18 @@
+/* body */
+.diybodyset{
+    background-color: #ecf0f5;
+
+    /* padding-left: 15px;
+    padding-right: 15px; */
+    margin-top: 60px;
+    height: 1300px;
+}
+/* 中间 */
+.center1{
+    margin-bottom:50px;
+}
+/* 左浮动 */
+.leftfloat{
+    float:left;
+
+}

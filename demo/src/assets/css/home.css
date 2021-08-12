@@ -1,0 +1,91 @@
+/* body */
+.diybodyset{
+    background-color: #ecf0f5;
+
+    /* padding-left: 15px;
+    padding-right: 15px; */
+    margin-top: 60px;
+}
+
+
+/* 左侧大div */
+.diyleftbodyset{
+    height: 800px;
+}
+
+
+/* 中间大div */
+.diymidbodyset{
+    background-color: #ffffff;
+
+}
+
+
+/* 右侧大div */
+.diyrightbodyset{
+    background-color: #ffffff;
+    height: 800px;
+}
+
+
+
+
+/* 左边大div内部 */
+.diyleftinside{
+    background-color: #ffffff;
+    padding: 5px;
+}
+/* 左边内部上 */
+.diylefttop{
+    height:30px;
+    font-size: 18px;
+}
+.diylefttop2{
+    height:240px;
+}
+
+
+
+/* 左边内部下 */
+.diyleftbottom{
+    background-color: #ffffff;
+}
+
+.diyleftbottominside{
+    height:465px;
+    padding: 3px;
+}
+
+
+/* 中间内部下 */
+.diymidinsidebottom{
+    height: 770;
+    padding: 3px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* 白色字体 */
+.whitefont{
+    color: #6C757D;
+    font-family: Avenir, Helvetica, Arial, sans-serif;
+    font-size: 20px;
+}
+
+/* 内边距10px */
+.diypadding10px{
+    padding: 10px;
+}
+/* 内边距0px */
+.diypadding0px{
+    padding: 0px;
+}

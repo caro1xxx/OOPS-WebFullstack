@@ -1,0 +1,17 @@
+/* logoset */
+.diylogoset{
+    width:100px;
+    height:40px;
+}
+
+/* 字体 */
+.diyfont{
+    font-family: Avenir, Helvetica, Arial, sans-serif;
+}
+
+/* 背景颜色 */
+.diybackgroundset{
+    background-color: #ecf0f5;
+    padding: 10px;
+}
+
