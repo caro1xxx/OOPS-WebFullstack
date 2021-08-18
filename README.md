@@ -10,6 +10,10 @@
 > * Vue 3
 > * Bootstrap 5.0.2
 
+> **后端项目文件为project**
+>
+> **前端项目文件为demo**
+>
 > 其他后端依赖请参考project/requirements.txt文件有详细说明
 
 ## 界面
