@@ -2,6 +2,8 @@
 
 > django rest framework + vue +bootstrap + redis前后端分离的资源网站小项目
 
+> 实例网站:http://81.68.105.198:70/#/
+
 ## 环境
 
 > * Python 3.9
